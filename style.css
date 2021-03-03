@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+
+#map {
+  height: 90vh;
+}
+
+h1 {
+  font-family: "DotGothic16", sans-serif;
+  text-align: center;
+  font-size: 2rem;
+  padding: 0 3rem;
+}
+
+.gm-style-iw-d {
+  color: black;
+}
